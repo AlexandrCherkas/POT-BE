@@ -1,0 +1,19 @@
+{
+  "login-phrase": "Connectez-vous à votre compte",
+  "login": "Login",
+  "logout": "Logoff",
+  "password": "Entrez votre mot de passe",
+  "login-error": "La connexion est requise",
+  "password-error": "Le mot de passe est requis",
+
+  "home": "Maison",
+  "text-home-page": "Lorem Ipsum est simplement un texte factice de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et l'a brouillée pour créer un livre d'échantillons de caractères. Il a survécu non seulement cinq siècles, mais aussi le saut dans la composition électronique, restant essentiellement inchangé ",
+  "employer": "Employeur",
+  "claims": "Réclamation",
+
+  "label-search-input-employerName": "Nom de L'Employeur",
+  "error-search-input-employerName": "Veuillez entrer ...",
+  "label-search-input-employerCode": "Code de l'Employeur",
+  "error-search-input-employerCode": "Longueur maximale du nom de code: 3",
+  "search": "Rechercher"
+}
